@@ -26,6 +26,15 @@
       }
     ]
   },
+  "ecoflow-delta-pro": {
+    "links": [
+      {
+        "retailer": "walmart",
+        "raw_url": "https://www.walmart.com/ip/EcoFlow-DELTA-Pro-Portable-Power-Station-3600Wh-Capacity-Solar-Generator-3600W-AC-Output-for-Outdoor-Camping-Home-Backup-Emergency-RV-off-Grid/726018448",
+        "affiliate_url": "https://www.walmart.com/ip/EcoFlow-DELTA-Pro-Portable-Power-Station-3600Wh-Capacity-Solar-Generator-3600W-AC-Output-for-Outdoor-Camping-Home-Backup-Emergency-RV-off-Grid/726018448"
+      }
+    ]
+  },
   "goal-zero-yeti-1500x": {
     "links": [
       {
@@ -44,12 +53,12 @@
       }
     ]
   },
-  "ecoflow-delta-pro": {
+  "jackery-explorer-2000-pro": {
     "links": [
       {
-        "retailer": "walmart",
-        "raw_url": "https://www.walmart.com/ip/EcoFlow-DELTA-Pro-Portable-Power-Station-3600Wh-Capacity-Solar-Generator-3600W-AC-Output-for-Outdoor-Camping-Home-Backup-Emergency-RV-off-Grid/726018448",
-        "affiliate_url": "https://www.walmart.com/ip/EcoFlow-DELTA-Pro-Portable-Power-Station-3600Wh-Capacity-Solar-Generator-3600W-AC-Output-for-Outdoor-Camping-Home-Backup-Emergency-RV-off-Grid/726018448"
+        "retailer": "generic",
+        "raw_url": "https://www.thenextshop.nl/artikel/4882/jackery-explorer-2000-pro-power-station.html",
+        "affiliate_url": "https://www.thenextshop.nl/artikel/4882/jackery-explorer-2000-pro-power-station.html"
       }
     ]
   }
