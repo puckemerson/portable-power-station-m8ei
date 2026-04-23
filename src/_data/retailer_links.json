@@ -1,4 +1,13 @@
 {
+  "ecoflow-delta-2": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.qvc.com/EcoFlow-DELTA-2-Max-2000Wh-Portable-Power-Station-with-15-Outlets.product.E317810.html",
+        "affiliate_url": "https://www.qvc.com/EcoFlow-DELTA-2-Max-2000Wh-Portable-Power-Station-with-15-Outlets.product.E317810.html"
+      }
+    ]
+  },
   "jackery-explorer-1000": {
     "links": [
       {
@@ -8,12 +17,12 @@
       }
     ]
   },
-  "ecoflow-delta-2": {
+  "anker-757-powerhouse": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.qvc.com/EcoFlow-DELTA-2-Max-2000Wh-Portable-Power-Station-with-15-Outlets.product.E317810.html",
-        "affiliate_url": "https://www.qvc.com/EcoFlow-DELTA-2-Max-2000Wh-Portable-Power-Station-with-15-Outlets.product.E317810.html"
+        "raw_url": "https://uncrate.com/anker-powerhouse-757-portable-power-station/",
+        "affiliate_url": "https://uncrate.com/anker-powerhouse-757-portable-power-station/"
       }
     ]
   }
