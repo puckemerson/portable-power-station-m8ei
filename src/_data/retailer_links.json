@@ -53,6 +53,15 @@
       }
     ]
   },
+  "ecoflow-river-2-pro": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://au.ecoflow.com/products/river-2-pro-portable-power-station",
+        "affiliate_url": "https://au.ecoflow.com/products/river-2-pro-portable-power-station"
+      }
+    ]
+  },
   "goal-zero-yeti-1500x": {
     "links": [
       {
@@ -77,15 +86,6 @@
         "retailer": "generic",
         "raw_url": "https://www.thenextshop.nl/artikel/4882/jackery-explorer-2000-pro-power-station.html",
         "affiliate_url": "https://www.thenextshop.nl/artikel/4882/jackery-explorer-2000-pro-power-station.html"
-      }
-    ]
-  },
-  "ecoflow-river-2-pro": {
-    "links": [
-      {
-        "retailer": "generic",
-        "raw_url": "https://au.ecoflow.com/products/river-2-pro-portable-power-station",
-        "affiliate_url": "https://au.ecoflow.com/products/river-2-pro-portable-power-station"
       }
     ]
   }

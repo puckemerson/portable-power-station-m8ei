@@ -1,0 +1,46 @@
+[
+  {
+    "slug": "portable-power-stations-multi-day-off-grid",
+    "title": "Portable Power Stations Built for Multi-Day Off-Grid Living",
+    "intro_markdown": "Living off-grid for days or weeks demands more than portable power—it requires a system that can sustain ongoing draw, recharge from renewable sources, and scale with your needs. These stations represent the upper tier of capacity and expandability, engineered for vanlifers, remote work setups, and basecamp operations where resupply isn't an option. Each offers meaningful solar input, expansion ports, or battery capacity that crosses the threshold from emergency backup into legitimate off-grid infrastructure.",
+    "outro_markdown": "These aren't weekend camping accessories. They're the foundation of a power system that lets you work, cook, and live comfortably away from outlets for as long as your solar panels and usage discipline allow.",
+    "created_at": 1776976730143,
+    "items": [
+      {
+        "post_slug": "ecoflow-delta-pro",
+        "rank": 1,
+        "blurb_markdown": "The Delta Pro's expandable ecosystem—adding extra batteries to reach 25kWh—and 1600W solar input make it the true off-grid heavyweight. When you're planning month-long remote stays, this modularity becomes essential rather than luxury."
+      },
+      {
+        "post_slug": "jackery-explorer-2000-pro",
+        "rank": 2,
+        "blurb_markdown": "The 2000 Pro balances serious capacity with six-hour solar recharge times and battery expansion capability. Its 2160Wh base handles multi-day loads without the complexity of multi-unit systems, ideal for solo remote workers or couples."
+      },
+      {
+        "post_slug": "bluetti-ac200p",
+        "rank": 3,
+        "blurb_markdown": "With 2000Wh onboard and 700W solar input, the AC200P delivers extended runtime without expansion accessories. The built-in wireless charging and comprehensive port array make it particularly suited to stationary basecamp setups where everything orbits one charging hub."
+      },
+      {
+        "post_slug": "goal-zero-yeti-1500x",
+        "rank": 4,
+        "blurb_markdown": "Goal Zero's modular approach lets you chain expansion batteries and integrate with permanent solar arrays. The 1500X works as the brain of a larger system, with app control that becomes genuinely useful when monitoring consumption over weeks."
+      },
+      {
+        "post_slug": "anker-powerhouse-767",
+        "rank": 5,
+        "blurb_markdown": "The 767's 2048Wh capacity and expansion battery compatibility bridge the gap between portable and semi-permanent installation. Its five-year warranty matters more when the unit becomes infrastructure you depend on daily, not occasionally."
+      },
+      {
+        "post_slug": "ecoflow-delta-2",
+        "rank": 6,
+        "blurb_markdown": "Though smaller at 1024Wh, the DELTA 2's fast solar charging and expansion port allow it to punch above its weight class for extended trips. It works for minimalist off-gridders who've optimized their power consumption and don't need refrigeration."
+      },
+      {
+        "post_slug": "anker-757-powerhouse",
+        "rank": 7,
+        "blurb_markdown": "The 757's 1229Wh and LiFePO4 battery chemistry—rated for 3000 cycles—make it viable for daily cycling over years. For permanent tiny home or van installations where you're drawing power every single day, that longevity becomes the deciding factor."
+      }
+    ]
+  }
+]
