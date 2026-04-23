@@ -7,5 +7,14 @@
         "affiliate_url": "https://jackery.co.za/product/explorer-1000-portable-power-station/"
       }
     ]
+  },
+  "ecoflow-delta-2": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.qvc.com/EcoFlow-DELTA-2-Max-2000Wh-Portable-Power-Station-with-15-Outlets.product.E317810.html",
+        "affiliate_url": "https://www.qvc.com/EcoFlow-DELTA-2-Max-2000Wh-Portable-Power-Station-with-15-Outlets.product.E317810.html"
+      }
+    ]
   }
 }
