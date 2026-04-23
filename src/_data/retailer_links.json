@@ -61,5 +61,14 @@
         "affiliate_url": "https://www.thenextshop.nl/artikel/4882/jackery-explorer-2000-pro-power-station.html"
       }
     ]
+  },
+  "bluetti-ac180": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.desertcart.com.au/products/534879757-bluetti-portable-power-station-ac-180-1152-wh-li-fe-po-4-battery-backup-w-4-1800-w-2700-w-peak-ac-outlets-0-80-in-45-min-solar-generator-for-camping-off-grid-power-outage",
+        "affiliate_url": "https://www.desertcart.com.au/products/534879757-bluetti-portable-power-station-ac-180-1152-wh-li-fe-po-4-battery-backup-w-4-1800-w-2700-w-peak-ac-outlets-0-80-in-45-min-solar-generator-for-camping-off-grid-power-outage"
+      }
+    ]
   }
 }
