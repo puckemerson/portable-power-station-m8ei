@@ -1,0 +1,81 @@
+---
+layout: base.njk
+---
+<a href="{{ '/' | url }}" class="back-link">← back to all reviews</a>
+{% include "partials/affiliate-disclosure.njk" %}
+<article class="review">
+  {% if image %}<img src="{{ image | url }}" alt="{{ product_name }}" class="hero" width="1200" height="630" fetchpriority="high">{% endif %}
+  <h1>{{ product_name }}</h1>
+  <div class="lead">
+    <div class="score">{{ final_score | round }}</div>
+    <div class="summary-meta">
+      <div><strong>{{ product_name }}</strong></div>
+      <div>Reviewed on <time datetime="{{ date | date('iso') }}">{{ date | date }}</time></div>
+    </div>
+  </div>
+
+  {# Primary CTA: above the scoring breakdown, right after the hero + lead. #}
+  {% set ctaSlug = slug or page.fileSlug %}
+  {% set ctaSize = 'lg' %}
+  {% include "partials/cta.njk" %}
+
+  <div class="body">
+    {{ content | safe }}
+  </div>
+
+  {# Secondary CTA: after the review body, before the scoring breakdown. #}
+  {% set ctaSlug = slug or page.fileSlug %}
+  {% set ctaSize = 'lg' %}
+  {% include "partials/cta.njk" %}
+
+  {% if categories and categories.length %}
+  <div class="breakdown">
+    <h3>Scoring breakdown</h3>
+    {% for cat in categories %}
+    <div class="cat">
+      <div class="cat-top">
+        <span class="cat-name">{{ cat.name }}</span>
+        <span><span class="cat-weight">weight {{ (cat.weight * 100) | round }}%</span> · <span class="cat-score">{{ cat.score | round }}</span></span>
+      </div>
+      <div class="cat-bar"><div class="cat-bar-fill" style="width: {{ cat.score }}%;"></div></div>
+      {% if cat.rationale %}<div class="cat-rationale">{{ cat.rationale }}</div>{% endif %}
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  <div class="footer">
+    Final score: <strong>{{ final_score | round }}/100</strong>
+    {% if image_source %} · Image: <a href="{{ image_source }}" rel="nofollow noopener">source</a>{% endif %}
+  </div>
+
+  {# Featured-in callout: if this review appears in any listicle, show it. #}
+  {% include "partials/featured-in.njk" %}
+
+  {# Related reviews: other posts from this site, excluding the current one.
+     Priority: same top category name, then newest, capped at 5. #}
+  {%- set currentSlug = slug or page.fileSlug -%}
+  {%- set allReviews = collections.reviews -%}
+  {%- set related = [] -%}
+  {%- for r in allReviews -%}
+    {%- if r.data.slug != currentSlug and r.fileSlug != currentSlug -%}
+      {%- set related = (related.push(r), related) -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- if related.length > 0 -%}
+  <section class="related">
+    <h3>Related reviews</h3>
+    <div class="related-grid">
+      {%- for r in related.slice(0, 5) -%}
+      <a class="related-card" href="{{ r.url | url }}">
+        {% if r.data.image %}<img src="{{ r.data.image | url }}" alt="{{ r.data.product_name }}" loading="lazy" width="300" height="180">{% else %}<div class="related-placeholder"></div>{% endif %}
+        <div class="related-body">
+          <div class="related-title">{{ r.data.product_name }}</div>
+          <div class="related-meta"><span class="score-badge small">{{ r.data.final_score | round }}</span></div>
+        </div>
+      </a>
+      {%- endfor -%}
+    </div>
+  </section>
+  {%- endif -%}
+</article>
