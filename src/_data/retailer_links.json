@@ -8,6 +8,15 @@
       }
     ]
   },
+  "bluetti-ac180": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.desertcart.com.au/products/534879757-bluetti-portable-power-station-ac-180-1152-wh-li-fe-po-4-battery-backup-w-4-1800-w-2700-w-peak-ac-outlets-0-80-in-45-min-solar-generator-for-camping-off-grid-power-outage",
+        "affiliate_url": "https://www.desertcart.com.au/products/534879757-bluetti-portable-power-station-ac-180-1152-wh-li-fe-po-4-battery-backup-w-4-1800-w-2700-w-peak-ac-outlets-0-80-in-45-min-solar-generator-for-camping-off-grid-power-outage"
+      }
+    ]
+  },
   "bluetti-ac200p": {
     "links": [
       {
@@ -62,12 +71,12 @@
       }
     ]
   },
-  "bluetti-ac180": {
+  "anker-powerhouse-767": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.desertcart.com.au/products/534879757-bluetti-portable-power-station-ac-180-1152-wh-li-fe-po-4-battery-backup-w-4-1800-w-2700-w-peak-ac-outlets-0-80-in-45-min-solar-generator-for-camping-off-grid-power-outage",
-        "affiliate_url": "https://www.desertcart.com.au/products/534879757-bluetti-portable-power-station-ac-180-1152-wh-li-fe-po-4-battery-backup-w-4-1800-w-2700-w-peak-ac-outlets-0-80-in-45-min-solar-generator-for-camping-off-grid-power-outage"
+        "raw_url": "https://www.chargerlab.com/first-look-of-new-anker-767-portable-power-station-ganprime-powerhouse-2048wh/",
+        "affiliate_url": "https://www.chargerlab.com/first-look-of-new-anker-767-portable-power-station-ganprime-powerhouse-2048wh/"
       }
     ]
   }
