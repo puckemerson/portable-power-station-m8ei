@@ -8,6 +8,15 @@
       }
     ]
   },
+  "bluetti-ac200p": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://130.com.ua/en/product/bluetti-ac200p/",
+        "affiliate_url": "https://130.com.ua/en/product/bluetti-ac200p/"
+      }
+    ]
+  },
   "ecoflow-delta-2": {
     "links": [
       {
@@ -26,12 +35,12 @@
       }
     ]
   },
-  "bluetti-ac200p": {
+  "goal-zero-yeti-1500x": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://130.com.ua/en/product/bluetti-ac200p/",
-        "affiliate_url": "https://130.com.ua/en/product/bluetti-ac200p/"
+        "raw_url": "https://www.rei.com/product/184367/goal-zero-yeti-1500x-portable-power-station",
+        "affiliate_url": "https://www.rei.com/product/184367/goal-zero-yeti-1500x-portable-power-station"
       }
     ]
   }
