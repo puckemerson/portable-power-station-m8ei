@@ -8,6 +8,15 @@
       }
     ]
   },
+  "anker-powerhouse-767": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.chargerlab.com/first-look-of-new-anker-767-portable-power-station-ganprime-powerhouse-2048wh/",
+        "affiliate_url": "https://www.chargerlab.com/first-look-of-new-anker-767-portable-power-station-ganprime-powerhouse-2048wh/"
+      }
+    ]
+  },
   "bluetti-ac180": {
     "links": [
       {
@@ -71,12 +80,12 @@
       }
     ]
   },
-  "anker-powerhouse-767": {
+  "ecoflow-river-2-pro": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.chargerlab.com/first-look-of-new-anker-767-portable-power-station-ganprime-powerhouse-2048wh/",
-        "affiliate_url": "https://www.chargerlab.com/first-look-of-new-anker-767-portable-power-station-ganprime-powerhouse-2048wh/"
+        "raw_url": "https://au.ecoflow.com/products/river-2-pro-portable-power-station",
+        "affiliate_url": "https://au.ecoflow.com/products/river-2-pro-portable-power-station"
       }
     ]
   }
