@@ -97,5 +97,14 @@
         "affiliate_url": "https://eu.jackery.com/products/jackery-explorer-500-portable-power-station"
       }
     ]
+  },
+  "ecoflow-delta-2-max": {
+    "links": [
+      {
+        "retailer": "amazon",
+        "raw_url": "https://www.amazon.com/EF-ECOFLOW-Capacity-Generator-Emergency/dp/B0C4FBGK97",
+        "affiliate_url": "https://www.amazon.com/EF-ECOFLOW-Capacity-Generator-Emergency/dp/B0C4FBGK97"
+      }
+    ]
   }
 }
