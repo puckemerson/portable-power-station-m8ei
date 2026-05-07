@@ -44,6 +44,15 @@
       }
     ]
   },
+  "ecoflow-delta-2-max": {
+    "links": [
+      {
+        "retailer": "amazon",
+        "raw_url": "https://www.amazon.com/EF-ECOFLOW-Capacity-Generator-Emergency/dp/B0C4FBGK97",
+        "affiliate_url": "https://www.amazon.com/EF-ECOFLOW-Capacity-Generator-Emergency/dp/B0C4FBGK97"
+      }
+    ]
+  },
   "ecoflow-delta-pro": {
     "links": [
       {
@@ -98,12 +107,12 @@
       }
     ]
   },
-  "ecoflow-delta-2-max": {
+  "jackery-explorer-1000-plus": {
     "links": [
       {
-        "retailer": "amazon",
-        "raw_url": "https://www.amazon.com/EF-ECOFLOW-Capacity-Generator-Emergency/dp/B0C4FBGK97",
-        "affiliate_url": "https://www.amazon.com/EF-ECOFLOW-Capacity-Generator-Emergency/dp/B0C4FBGK97"
+        "retailer": "generic",
+        "raw_url": "https://eu.jackery.com/products/explorer-1000-plus-portable-power-station",
+        "affiliate_url": "https://eu.jackery.com/products/explorer-1000-plus-portable-power-station"
       }
     ]
   }
